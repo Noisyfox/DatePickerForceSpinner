@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ForceSpinnerDatePicker" parent="android:Widget.Material.DatePicker">
+        <!-- Overwrite the default picker mode. The default calender view is so hard to use. -->
+        <item name="android:datePickerMode">spinner</item>
+    </style>
+</resources>
